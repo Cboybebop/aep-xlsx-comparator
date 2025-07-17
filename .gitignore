@@ -1,2 +1,7 @@
 # Ignore output folder and all generated files
 output/
+# Ignore dist and build folders and all generated files
+dist/
+build/
+# Ignore Python application spec file
+app.spec
