@@ -23,18 +23,17 @@ pip install pandas openpyxl
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   ```
-
+   
+```bash
 git clone [https://github.com/](https://github.com/)\<your‑username>/aep-xlsx-comparator.git cd aep-xlsx-comparator
+```
 
-````
 2. Install the dependencies (see **Prerequisites**).
 
 ## Usage
 
 1. Run the application:
-   ```bash
+````bash
 python app.py
 ````
 
@@ -104,23 +103,16 @@ This project is licensed under the MIT Licence. See the [LICENSE](LICENSE) file 
 
 1. Fork the repository.
 2. Create a feature branch:
-   ```bash
-   ```
-
+```bash
 git checkout -b feature/my‑feature
-
 ````
 3. Commit your changes:
-   ```bash
+```bash
 git commit -m "Add my feature"
 ````
-
 4. Push to the branch:
-   ```bash
-   ```
-
+```bash
 git push origin feature/my‑feature
-
 ```
 5. Open a pull request.
 
@@ -130,5 +122,3 @@ Please ensure code is well‑documented and adheres to PEP 8 style guidelines.
 
 - Based on the Adobe Experience Platform debugger export format.
 - Utilises `pandas`, `openpyxl` and `tkinter`.
-
-```
